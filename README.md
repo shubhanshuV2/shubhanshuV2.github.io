@@ -7,4 +7,4 @@ I have a strong interest in studying dynamics and control systems of hybrid VTOL
 
 [comment]: <> (https://shubhanshuv2.github.io/)
 
-![E11_0249](E11_0249.jpg)
+![Alt_text](https://github.com/shubhanshuV2/shubhanshuV2.github.io/blob/master/images/E11_0249.jpg)
