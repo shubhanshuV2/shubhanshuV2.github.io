@@ -10,3 +10,7 @@ I have a strong interest in studying dynamics and control systems of hybrid VTOL
 
 [comment]: <> (https://shubhanshuv2.github.io/)
 
+images/E11_0249.jpg
+
+{% include image.html file="images/E11_0249.jpg" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %}
+
